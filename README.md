@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lab 15- Binary Tree Data Structure
+[![Build Status](https://travis-ci.org/JPLaw/15-BinaryTree.svg?branch=master)](https://travis-ci.org/JPLaw/15-BinaryTree)Lab 15- Binary Tree Data Structure
 ====
 ## To Submit this Assignment
 * Read this document entirely and estimate how long this assignment will take.
