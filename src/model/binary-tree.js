@@ -27,8 +27,8 @@ seven.right = nine;
 
 const binaryTree = new BinaryTree(one);
 
-console.log(binaryTree, 'NOT PRETTY');
+// console.log(binaryTree, 'NOT PRETTY');
 // this just expands my tree out so we can see deeply nested objects
-console.log(JSON.stringify(binaryTree, null, 2));
+// console.log(JSON.stringify(binaryTree, null, 2));
 
 export default binaryTree;
