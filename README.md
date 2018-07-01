@@ -28,7 +28,15 @@
 * Write tests for your `GET` route by making Superagent requests
 
 ####  Documentation
-If you are going to make an Express API for this lab for the bonus, follow the standard guideline of previous Labs 11-14 for proper API documentation. Please include Big Oh time complexity for traversal of your binary tree. 
+Big O time complexity: O(n) 
 
-Otherwise, please explain how a user should execute your code and run your tests if someone else were to clone down this repo. Please include Big Oh time complexity for traversal of your binary tree. 
+To run this program:
+
+Click on click the button that says "Clone or download"
+Copy the given link
+In your terminal, in the directory that you would like to save the project in, git clone (paste link)
+Navigate into the folder directory using the command  ```cd 15-BinaryTree```
+Then, the command ```npm init -y```, and then ```npm i```
+Open the project in your text editor using the command ```code .```
+In your terminal, run a test by using the command ```npm run test```
 
